@@ -1,10 +1,10 @@
 <br>
 <br>
-Uchiha Clan<br>
+# Uchiha Clan<br>
 <br>
-History<br>
+## History<br>
 <br>
-Restrictions<br>
+## Restrictions<br>
 <br>
 Must have Ancestry: Dokkalfar (Alfar of Darkness) Trait.<br>
 Must have completed 5 Events or Interactive Missions beforehand.<br>
@@ -13,9 +13,9 @@ Uchiha who dies with a Scrap Death, or Cheap Death is unable to make a 2nd Uchih
 GenJutsu Master Uchiha do not need Grand Mastery to Master Uchiha.<br>
 <br>
 <br>
-Uchiha's Basic Techniques<br>
+## Uchiha's Basic Techniques<br>
 <br>
-Animal Magnetism<br>
+### Animal Magnetism<br>
 **Rank:** "C"<br>
 **Skill:** NinJutsu<br>
 **Effect:** User's charming powers are more potent with animals and anthropomorphic creatures.<br>
