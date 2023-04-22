@@ -1,9 +1,4 @@
-layout: page
-title: "PAGE-TITLE"
-permalink: /URL-PATH
-
-Supplementary Skills
-
+# Supplementary Skills
 
     Four Becomes Three
     Rank: D
